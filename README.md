@@ -25,7 +25,7 @@ A self-learner with the ability to design and build Android or iOS games who can
 </p>
 
 
-### Key points
+### Professional  Experience
 *   Designing and developing and testing game for the Android platform:
 *   Basketball Challenge                                                      
 *   Wrong Move                                                                       
