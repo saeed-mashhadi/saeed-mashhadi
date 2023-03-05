@@ -23,7 +23,7 @@ In general, I've worked with monolithic, microservice and serverless architectur
 
 
 ### Key points
-*   Designing and developing and testing the X game for the Android platform []
+*   Designing and developing and testing game for the Android platform []
 *   Basketball Challenge                                                      
 *   Wrong Move                                                                       
 *   The Cube Move                                                                    
@@ -39,12 +39,10 @@ In general, I've worked with monolithic, microservice and serverless architectur
 *   Unity3D,  Visual Studio, MonoDevelop, Microsoft Office tools
 *   GitHub/GitLab
 
-### My opensource projects
+### My personal projects
 
-*   [image-comparison](https://github.com//image-comparison) - Published on Maven Central Java Library; it compares 2 images of the same size and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
-*   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
-*   [Skyscanner Flight API client](https://github.com//skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
-*   [Flights-monitoring](https://github.com//flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
+*   [Cash register software](https://github.com/) - Published on Maven Central Java Library; it compares 2 images of the same size and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
+
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com//github-profile-views-counter">
