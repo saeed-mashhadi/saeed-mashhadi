@@ -36,7 +36,7 @@ A self-learner with the ability to design and build Android or iOS games who can
 *   I write posts about software development.
 *   Currently working in [Matita Entertainment](https://matitaentertainment.com)
 
-## 🛠 Technology Stack
+### Technology Stack
 *   Python, C#, JavaScript, CSS, HTML languages
 *   Netcode for Gameobjects, Firebase, Playfab, Game analytics, Google Analytics, Google AdWords, Google AdMob, SEO, Git technology
 *   Unity3D,  Visual Studio, MonoDevelop, Microsoft Office tools
@@ -44,7 +44,7 @@ A self-learner with the ability to design and build Android or iOS games who can
 
 ### My personal projects
 
-*   [Cash register software](https://github.com/) - Published on Maven Central Java Library; it compares 2 images of the same size and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
+*   [Cash register software](https://github.com/) 
 
 
 <div align="center" style="margin: 40px 0">
