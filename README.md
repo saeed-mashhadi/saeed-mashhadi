@@ -1,6 +1,9 @@
 # Hi, I'm Saeed Mashhadi 👋
-A Unity engineer with more than 5 years of professional experience. I have excellent knowledge of backend Java development.
-In general, I've worked with monolithic, microservice and serverless architectures. A lot of my activity is open-source.
+Unity developer with +5 years of experience in writing 2D and 3D games, UI development, animations, materials, 
+SDKs and frameworks, and version control such as Git. Use game assets in project. Knowledge C#, Unity3d, integrated 
+game physics, Object-Oriented Programming, and writing clean code. Knowledge to turn the prototype into a game.
+A self-learner with the ability to design and build Android or iOS games who can assisted both individually and as part of a teamwork.
+.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=saeed-mashhadi&show_icons=true&count_private=true"><img
