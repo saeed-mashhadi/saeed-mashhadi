@@ -23,7 +23,7 @@ In general, I've worked with monolithic, microservice and serverless architectur
 
 
 ### Key points
-*   Designing and developing and testing game for the Android platform []
+*   Designing and developing and testing game for the Android platform:
 *   Basketball Challenge                                                      
 *   Wrong Move                                                                       
 *   The Cube Move                                                                    
