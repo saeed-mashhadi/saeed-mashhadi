@@ -14,7 +14,7 @@ In general, I've worked with monolithic, microservice and serverless architectur
    <a href="https://www.linkedin.com/in/saeed-mashhadi/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="https://t.me/joinchat/SaeedMashhadi">
+   <a href="https://t.me/joinchat/Saeed_Mashhadi">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
@@ -23,17 +23,22 @@ In general, I've worked with monolithic, microservice and serverless architectur
 
 
 ### Key points
-*   Creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   Creator and author of [romankh3](https://t.me/romankh3) Telegram channel. Subscribe to receive messages about my open-source activities.
+*   Designing and developing and testing the X game for the Android platform []
+*   Basketball Challenge                                                      
+*   Wrong Move                                                                       
+*   The Cube Move                                                                    
+*   Mole                                                                             
+*   The Cooler                                                                        
+*   The left-handed                                                                  
 *   I write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
+*   Currently working in [Matita Entertainment](https://matitaentertainment.com)
 
 ## 🛠 Technology Stack
 *   Java/Kotlin/Groovy/COBOL languages
 *   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
 *   Spring Framework, Spring Boot, Spring Test, Spring Data JPA, Spring JDBC template, Spring Cloud Contract and so on...
 *   Camunda, Camunda Cockpit, Camunda Modeler
-*   GitHub/GitLab/Gerrit/Bitbucket
+*   GitHub/GitLab
 
 ### My opensource projects
 
