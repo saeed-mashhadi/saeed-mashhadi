@@ -34,10 +34,9 @@ In general, I've worked with monolithic, microservice and serverless architectur
 *   Currently working in [Matita Entertainment](https://matitaentertainment.com)
 
 ## 🛠 Technology Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data JPA, Spring JDBC template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeler
+*   Python, C#, JavaScript, CSS, HTML languages
+*   Netcode for Gameobjects, Firebase, Playfab, Game analytics, Google Analytics, Google AdWords, Google AdMob, SEO, Git technology
+*   Unity3D,  Visual Studio, MonoDevelop, Microsoft Office tools
 *   GitHub/GitLab
 
 ### My opensource projects
