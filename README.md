@@ -44,7 +44,10 @@ A self-learner with the ability to design and build Android or iOS games who can
 
 ### My personal projects
 
-*   [Cash register software](https://github.com/) 
+*   [Cash register software](https://galile-optic.ir)  is a small store fund for accounting and making invoices. Produced with JavaScript, 
+*   Matita Entertainment Designing and coding Matita entertainment site using Html, Css, Javascript, php, 
+wordpress, etc
+HTML and CSS
 
 
 <div align="center" style="margin: 40px 0">
